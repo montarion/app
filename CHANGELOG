@@ -1,0 +1,5 @@
+???: Alpha 0.1 in testing
+
+21-08-18: Alpha 0.2 in testing. updates include better looking code, and always on sockets for the server through a service.
+          Aims for the next version include sending my ip to the server if it changes.
+28-08-18: Alpha 0.3 working. sends ip to server(not on change, do manual refresh). works outside.
